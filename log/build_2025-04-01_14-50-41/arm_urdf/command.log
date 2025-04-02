@@ -1,0 +1,4 @@
+Invoking command in '/home/ros/robot_manipulator/build/arm_urdf': CMAKE_PREFIX_PATH=/opt/ros/humble HISTTIMEFORMAT=%F %T /usr/bin/cmake --build /home/ros/robot_manipulator/build/arm_urdf -- -j6 -l6
+Invoked command in '/home/ros/robot_manipulator/build/arm_urdf' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble HISTTIMEFORMAT=%F %T /usr/bin/cmake --build /home/ros/robot_manipulator/build/arm_urdf -- -j6 -l6
+Invoking command in '/home/ros/robot_manipulator/build/arm_urdf': CMAKE_PREFIX_PATH=/opt/ros/humble HISTTIMEFORMAT=%F %T /usr/bin/cmake --install /home/ros/robot_manipulator/build/arm_urdf
+Invoked command in '/home/ros/robot_manipulator/build/arm_urdf' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble HISTTIMEFORMAT=%F %T /usr/bin/cmake --install /home/ros/robot_manipulator/build/arm_urdf
